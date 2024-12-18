@@ -1,0 +1,6 @@
+101,kajal,22,Information technology
+102,shrikant,24,assistent
+ka,kajal,22,cs
+11,ww111,22,ss
+9,k,22,cs
+12,ss,21,cs12
